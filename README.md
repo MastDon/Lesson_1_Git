@@ -16,5 +16,7 @@ test fetch
 =======
 
 create conflict
->>>>>>> dfd8b602acb721b4bf6f20af66175df594d8af21
 12:51  up 3 days, 12:28, 2 users, load averages: 1.10 1.20 1.28
+=======
+
+manual create conflict
