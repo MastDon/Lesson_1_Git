@@ -13,3 +13,5 @@ test fetch
 12:25  up 3 days, 12:02, 2 users, load averages: 0.98 1.25 1.78
 
 create conflict
+
+manual create conflict
