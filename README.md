@@ -20,4 +20,5 @@ create conflict
 =======
 
 manual create conflict
-create branch
+create branch 
+work in new branch
